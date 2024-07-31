@@ -27,7 +27,6 @@ const HW12 = () => {
     const change = (id: number) => {
         dispatch(changeThemeId(id))
         // дописать функцию
-
     }
 
     useEffect(() => {
